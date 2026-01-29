@@ -1,3 +1,2 @@
-# ConStellE: The Reincarnation
 
 Welcome to DEC 
