@@ -11,7 +11,7 @@ CONSTELLE is used to be a student club run by CSE students. Its objective is to 
 
 {% for post in post.site.categories.dec %}
 - [{{post.title}}]({{post.url}})
-{% end for %}
+{% endfor %}
 
 ---
 
