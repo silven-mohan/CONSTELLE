@@ -9,6 +9,9 @@ CONSTELLE is used to be a student club run by CSE students. Its objective is to 
 
 ### 👨‍💻 Drop everything and Code
 
+{% for post.site.categories.dec %}
+- [{{post.title}}]({{post.url}})
+{% end for %}
 
 ---
 
